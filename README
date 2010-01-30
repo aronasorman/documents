@@ -1,0 +1,1 @@
+This directory is branched depending on the year in college. Then there are two folders on the first and second sem. To change years, type git checkout [year]. to see all years, type git branch -l. :)
