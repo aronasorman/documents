@@ -5,5 +5,7 @@
 *.aux
 *.out
 *.blg
+*-blx.bib
+*.swp
 REQ
 \#*
